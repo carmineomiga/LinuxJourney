@@ -25,6 +25,24 @@
 ###### This is a H6
 
 
+## 2. 체크 박스 Task List
+- 체크된 박스는 '[x]', 체크되지 않은 박스는 '[ ]'를 사용한다.
+- 사용한 바에 따르면 맨 앞에서만 사용이 가능하며,
+
+	중간이나 뒤에서는 사용이 불가능하다.
+- 표현 방법과 결과는 다음과 같다.
+```
+- [x] water
+- [ ] water
+1. [x] milk
+2. [ ] milk
+```
+- [x] water
+- [ ] water
+1. [x] milk
+2. [ ] milk
+
+
 ***
 #### # 참고 리포지터리
 - https://gist.github.com/ihoneymon/652be052a0727ad59601 
