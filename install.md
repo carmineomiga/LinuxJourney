@@ -5,7 +5,7 @@
 
 ***
 # list
-1. [x] [djv.sh](docs/djv.sh)
-1. [x] utility.sh
-1. [x] trans.sh
-1. [ ] rmhotcorner.sh
+1. [x] [djv.sh](scripts/djv.sh)
+1. [x] [utility.sh](scripts/utility.sh)
+1. [x] [trans.sh](scripts/utility.sh)
+1. [ ] [rmhotcorner.sh](scripts/rmhotcorner.sh)
