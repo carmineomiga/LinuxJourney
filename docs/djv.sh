@@ -1,4 +1,7 @@
 #!/bin/sh
+
+# djv view 를 설치하는 스크립트입니다.
+
 if [[ $EUID -ne 0 ]]; then
 	echo "This script must be run as Root" 1>&2
 	exit 1
