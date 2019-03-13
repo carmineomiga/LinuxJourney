@@ -25,3 +25,7 @@
 $ chmod 775 filename
 ````
 하는 이유
+
+3. markdown 파일을 편집할때, 
+
+	git add 하지 않고도 실시간으로 결과를 확인할 수 있는가?
