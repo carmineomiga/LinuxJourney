@@ -20,11 +20,10 @@
 ## List
 1. branch 사용 방법
 
-2.
+2. 775 권한을 주는 이유
 ```
 $ chmod 775 filename
 ````
-하는 이유
 
 3. markdown 파일을 편집할때, 
 
