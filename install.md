@@ -9,4 +9,4 @@
 1. [x] djv.sh
 1. [x] utility.sh
 1. [x] trans.sh
-1. [] rmhotcorner.sh
+1. [ ] rmhotcorner.sh
