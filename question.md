@@ -9,14 +9,14 @@
 
 ***
 ## List
-1. [x] [Fedora와 Ubuntu의 차이](answers/fedora_ubuntu_difference.md)
-1. branch 사용 방법
+- [x] [Fedora와 Ubuntu의 차이](answers/fedora_ubuntu_difference.md)
+- branch 사용 방법
 
-1. 775 권한을 주는 이유
+- 775 권한을 주는 이유
 ```
 $ chmod 775 filename
 ````
 
-1. markdown 파일을 편집할때, 
+- markdown 파일을 편집할때, 
 
 	git add 하지 않고도 실시간으로 결과를 확인할 수 있는가?
