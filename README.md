@@ -13,9 +13,12 @@
 	- markdown
 	- etc
 
-### 2. 사용하는 노트북 기종
+### 2. 리눅스
+CentOS7.6
+
+### 3. 사용하는 노트북 기종
 삼성 노트북 9 Lite(NT905S3G-K1WD)
 
-### 3. 주요 참고 리포지터리
+### 4. 주요 참고 리포지터리
 - https://github.com/carmineomiga
 - https://github.com/cgiseminar/curriculum
