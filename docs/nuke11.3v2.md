@@ -18,5 +18,5 @@ $ ./Nuke11.3v2-linux-x86-release-64-installer
 ```
 $ cd ~
 $ cd Nuke11.3v2
-$ cd ./Nuke11.3
+$ ./Nuke11.3
 ```
