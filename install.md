@@ -9,5 +9,5 @@
 1. [x] [utility.sh](docs/utility.sh)
 1. [x] [trans.sh](docs/utility.sh)
 1. [x] [nuke11.3v2](docs/nuke11.3v2.md)
-1. [x] [홈디렉토리 영문설정](docs/home_eng.sh)
+1. [x] [홈디렉토리 영문설정](docs/home_eng.md)
 1. [ ] [rmhotcorner.sh](docs/rmhotcorner.sh)
